@@ -39,8 +39,3 @@ Welcome to this repository containing projects focused on **data management tech
   - Build ETL pipelines for data extraction, transformation, and loading
   - Implement fact and dimension tables in MySQL
   - Create interactive dashboards and performance reports in Power BI
-
----
-
-## 📌 Repository Structure
-
